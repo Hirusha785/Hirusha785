@@ -10,7 +10,16 @@
 </p>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hirusha785&label=Profile%20views&color=0e75b6&style=flat" alt="Hirusha785" /> </p>
+<p align="center">
+  <!-- Profile badges -->
+  <a href="https://github.com/Hirusha785">
+    <img src="https://komarev.com/ghpvc/?username=Hirusha785&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+
+  <a href="https://github.com/Hirusha785?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hirusha785?logo=GitHub&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub Followers" />
+  </a>
+</p>
 
 <table align="center">
 <tr border="none">
