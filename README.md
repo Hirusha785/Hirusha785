@@ -49,10 +49,7 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Animated Tech Stack Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2CFF&height=180&section=header&text=Tech%20Stack%20%26%20Engineering%20Tools&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering+%7C+Power+Systems+%7C+PCB+Design;Embedded+Systems+%7C+Automation+%7C+Simulation;Circuit+Analysis+%7C+Control+Systems+%7C+Data+Engineering" />
