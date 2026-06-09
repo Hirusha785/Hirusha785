@@ -131,7 +131,7 @@
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avidzcheetah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirusha785&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Hirusha785&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&color=00D9FF&line=00D9FF" />
 
 </div>
